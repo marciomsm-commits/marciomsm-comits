@@ -1,5 +1,7 @@
 # projeto_exemplo
 
+[![Tests](https://github.com/marciomsm-commits/marciomsm-comits/actions/workflows/tests.yml/badge.svg)](https://github.com/marciomsm-commits/marciomsm-comits/actions/workflows/tests.yml)
+
 Projeto Python de exemplo com estrutura organizada, configuração segura via variáveis de ambiente e testes automatizados.
 
 ## Estrutura
